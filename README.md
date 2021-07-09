@@ -10,7 +10,7 @@
 - Ask me about anything, I am happy to help.
 
  &nbsp;
-
+---
 **Languages and Tools:**
 
 <div align="center">  
@@ -38,16 +38,19 @@
 
 
  &nbsp;
-
+---
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=darp99&show_icons=true&theme=vision-friendly-dark&locale=en" alt="Darp Dhameliya" /></p>
 
  &nbsp;
+ ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darp99&hide=JupyterNotebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact" alt="Darp Dhamrliya" /></p>
 
  &nbsp;
- 
+ ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darp99&theme=dark&fire=DD1A0D&stroke=DDDC13&currStreakNum=15DD1C&sideNums=4DDD18&sideLabels=1CDDD0)](https://git.io/streak-stats)
 
  &nbsp;
+ 
+ ---
  
